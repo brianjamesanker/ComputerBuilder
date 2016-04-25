@@ -19,6 +19,7 @@ import comp640.computerbuilder.R;
 * Activity that handles all fragments that use the menu
 *
 */
+
 public class MenuActivity extends AppCompatActivity {
 
     private Toolbar mToolbar;
